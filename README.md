@@ -30,7 +30,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [Add live site URL here](https://festive-montalcini-e9fc2c.netlify.app/)
+- Live Site URL: (https://festive-montalcini-e9fc2c.netlify.app/)
 
 ## My process
 
